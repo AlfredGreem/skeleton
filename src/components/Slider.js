@@ -36,10 +36,11 @@ const Slide = styled.div`
     align-items: center;
 `
 const ImgContainer = styled.div`
+    height: 100%;
     flex: 1;
 `
 const Image = styled.img`
-    width: 80vh;
+    width: 80%;
 `
 const InfoContainer = styled.div`
     flex: 1;
